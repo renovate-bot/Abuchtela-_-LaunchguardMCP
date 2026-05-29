@@ -1,0 +1,22 @@
+{
+  "name": "launchguard-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Base MCP demo for safer agentic token discovery.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {}
+}
